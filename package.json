@@ -1,0 +1,20 @@
+{
+  "name": "sol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "resume-prod": "./bin/add-private-data.sh && resume export resume.pdf --resume resume-prod.json --theme class",
+    "resume-acc": "resume export resume.pdf --theme class"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-class": "^0.1.2",
+    "jsonresume-theme-even": "^0.17.1",
+    "jsonresume-theme-short": "^0.1.7",
+    "resume-cli": "^3.0.8"
+  }
+}

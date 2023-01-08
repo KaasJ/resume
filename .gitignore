@@ -1,0 +1,4 @@
+*.pdf
+bin/private.sh
+resume-prod*
+node_modules

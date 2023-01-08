@@ -1,0 +1,241 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jorrit",
+    "label": "Full Stack Developer ",
+    "image": "",
+    "email": "hidden",
+    "phone": "hidden",
+    "url": "http://www.jorritstein.nl",
+    "summary": "I'm a full stack developer who can build apps from the ground up. I enjoy working in an dynamic and agile environments on products that add value to business and society. My background in business administration helps me to better understand the business question. I'm generally a flexible and responsible person that likes to learn new things.",
+    "profiles": [
+      {
+        "network": "Github",
+        "url": "https://github.com/KaasJ"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jorritstein/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Sungevity",
+      "location": "Amsterdam",
+      "description": "Solar energy equipment supplier in Amsterdam",
+      "position": "Full Stack Developer",
+      "url": "https://www.sungevity.nl/",
+      "startDate": "2019-02-01",
+      "summary": "My first job as a programmer. I worked here in a team with developers (7 at is peak), analists, product/process owners in an agile way using Kanban/Scrum. As a team we are, among others, responsible for customer facing websites and portals, sales and installation process support systems (planning, invoicing, etc.), solar system monitoring, maintaining our CRM (SugarCRM), reporting and alerting on our customer's solar system performance. Our systems are setup with a microservices backend running on AWS lambda's (serverless) combined with Appsync for GraphQL endpoints. In the frontend we mainly use VueJS V2 and V3. Unfortunately a large part of the team left the company leaving me as the sole responsible to maintain our systems",
+      "highlights": [
+        "Took part in building and maintaining a solar production monitoring platform for B2C and B2B customers including multiple integrations with external solar hardware suppliers",
+        "Wrote logic (mainly in PostgreSQL) that enables reporting and alerting on customers solar panel performance",
+        "Took the sole responsibility for all our systems and act as point of contact for all tech/dev related questions within the business for a period of over six months"
+      ]
+    },
+    {
+      "name": "ClickValue",
+      "location": "Amsterdam",
+      "description": "Marketing agency in Amsterdam now part of LevelUpGroup",
+      "position": "Online marketing consultant",
+      "url": "https://levelupgroup.nl/",
+      "startDate": "2016-07-16",
+      "endDate": "2017-12-30",
+      "summary": "Affiliate, Web Analytics, SEA (Google and Bing), comparison sites, automated and feed-driven marketing. ClickValue works for international clients as Heineken, Adidas and Harman. Reason for leaving: Work/travel abroad for 8 months.",
+      "highlights": [
+        "Automated product offer and pricing in Google Shopping and Marketplaces based on product performance",
+        "Responsible for search engine advertisement perfomance of thirtheen clients"
+      ]
+    },
+    {
+      "name": "Custom Links",
+      "location": "Amsterdam",
+      "description": "Link management platform",
+      "position": "Co - Founder / Owner",
+      "url": "https://www.customizelinks.com/",
+      "startDate": "2015-07-01",
+      "endDate": "2017-12-30",
+      "summary": "International link management platform for creating and managing branded short links. Responsibly for idea development, design, project management, finance,content creation, marketing, PR, customer contact and more.",
+      "highlights": []
+    },
+    {
+      "name": "Miscellaneous",
+      "location": "Amsterdam",
+      "description": "Marketing",
+      "position": "",
+      "url": "",
+      "startDate": "2012-09-01",
+      "endDate": "2016-07-01",
+      "summary": "Online marketing consultant DLVR (now https://greymen.co/), Webcare agent KPN (Telfort), Co-Founder Browse",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "World Rowing Championship U23",
+      "position": "Online marketing manager",
+      "startDate": "2011-03-01",
+      "endDate": "2011-07-30"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Amsterdam",
+      "url": "https://www.uva.nl/",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "2013-09-01",
+      "endDate": "2015-02-01",
+      "courses": [
+        "Entrepreneurship",
+        "Marketing"
+      ]
+    },
+    {
+      "institution": "University of applied sciences Amsterdam",
+      "url": "https://www.hva.nl/",
+      "area": "Commercial economics",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2012-06-30",
+      "score": "4.0",
+      "courses": [
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "institution": "Codaisseur",
+      "url": "https://codaisseur.com/nl/",
+      "area": "Programming",
+      "studyType": "Full stack web developer",
+      "startDate": "2018-09-01",
+      "endDate": "2018-11-15",
+      "courses": [
+        "React",
+        "Typescript",
+        "NodeJS",
+        "Git",
+        "Rest",
+        "Redux",
+        "PostgresSQL",
+        "Express",
+        "GraphQL",
+        "TypeORM"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "NodeJS",
+        "Typescript",
+        "Rest",
+        "GraphQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "Master",
+      "keywords": [
+        "Vue",
+        "html",
+        "css",
+        "Apollo",
+        "Next"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "AWS stack (DynamoDB, lambda, SQS, RDS, Appsync, cloudformation, etc.)",
+        "Netlify",
+        "Git",
+        "Bitbucket (pipelines)",
+        "Github",
+        "Jira (Atlassian)"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "keywords": [
+        "Web analytics",
+        "SEA",
+        "Feed marketing",
+        "Affiliate marketing",
+        "Webcare"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Speak/write"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Running",
+        "Mtb",
+        "Rowing"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Hiking",
+        "Culture",
+        "Nature"
+      ]
+    },
+    {
+      "name": "Smart home / energy management",
+      "keywords": [
+        "Raspberry pi",
+        "Awair",
+        "Home wizard",
+        "Zigbee"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Bram Koot",
+      "reference": "Senior developer and technical lead at Sungevity"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Browse",
+      "description": "Mobile and web based local network. With Browse users could get the most out of their location.",
+      "highlights": [
+        "Launched on Uilenstede (VU Campus)"
+      ],
+      "startDate": "2015-01-01",
+      "endDate": "2016-06-01",
+      "roles": [
+        "Idea development",
+        "Design",
+        "Marketing / PR"
+      ],
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "theme": "class",
+    "version": "v1.0.2",
+    "lastModified": "2022-09-19T15:53:00"
+  }
+}
