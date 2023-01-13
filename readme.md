@@ -1,5 +1,5 @@
 # Resume experiment
-Experiment with both resume-cli and bash script.
+Experimenting with both resume-cli and a bash script.
 
 ## how to run
   * npm install
